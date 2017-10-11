@@ -8,5 +8,5 @@ Fitur :
   4. Chart
   
 Akun Login :
-  1. username : auwfar / password : auwfar
+  1. username : admin / password : auwfar
   2. username : ozil / password : ozil
